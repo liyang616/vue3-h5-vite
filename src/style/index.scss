@@ -1,0 +1,17 @@
+// 全局公共样式
+// NProgress的样式
+#nprogress .bar {
+  background: #29d;
+}
+
+// 兼容PC端能友好展示，最大宽度适配到750px
+@media only screen and (min-width: 750px) {
+  #app {
+    width: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+  }
+  html {
+    font-size: 75px !important;
+  }
+}

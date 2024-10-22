@@ -1,0 +1,17 @@
+{
+  "pages": {
+    "key": "pages",
+    "router.Login": "路由",
+    "router.Home": "路由"
+  },
+  "zh-CN": {
+    "key": "zh-CN",
+    "router.Login": "登录",
+    "router.Home": "首页"
+  },
+  "en-US": {
+    "key": "en-US",
+    "router.Login": "Login",
+    "router.Home": "Home"
+  }
+}
