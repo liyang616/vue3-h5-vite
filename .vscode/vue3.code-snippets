@@ -14,7 +14,7 @@
       "})\n",
       "</script>\n",
       "<style lang='scss' scoped>",
-      "@import './index.scss';",
+      "@import url('./index.scss');",
       "</style>\n"
     ],
     "description": "Vue3快速生成模板"
